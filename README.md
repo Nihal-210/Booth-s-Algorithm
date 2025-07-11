@@ -7,6 +7,7 @@ This project implements a **4-bit signed multiplier** using **Booth's Algorithm*
 ## Reference Flowchart
 
 ![Reference Flowchart](Reference_Flowchart.png)
+
 **src: Computer System Architecture by M. Morris Mano ** 
 
 ### Module Overview
