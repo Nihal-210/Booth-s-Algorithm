@@ -48,4 +48,13 @@ This module performs a single step of Booth’s algorithm. It takes in the curre
 * `new_qr [3:0]` – Updated multiplier
 * `new_q       ` – Updated Q bit
 
+  ## Booth's Algorithm Logic
+
+![Booth's Log Diagram](booths_log.png)
+
+## Simulation Waveform
+
+![Booth's Waveform](booths_waveform.png)
+
+
 
