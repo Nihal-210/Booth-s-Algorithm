@@ -1,4 +1,4 @@
-# 🧮 4-bit Signed Booth Multiplier in Verilog
+# 4-bit Signed Booth Multiplier in Verilog
 
 This project implements a **4-bit signed multiplier** using **Booth's Algorithm**, written in Verilog HDL. 
 
